@@ -1,2 +1,2 @@
 # OMML2015-Homeworks
-Homework solutions for the course of Optimization Methods for Machine Learning
+Homework solutions for the course of Optimization Methods for Machine Learning at Sapienza University of Rome
