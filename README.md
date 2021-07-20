@@ -1,2 +1,4 @@
 # OMML2015-Homeworks
-Homework solutions for the course of Optimization Methods for Machine Learning at Sapienza University of Rome
+My homework solution for the course of Artificial Intelligence and Machine Learning at Sapienza University of Rome (fall 2015).
+* Homework 2: Generalized RBF's.
+* Homework 3: Support Vector Machines and decomoposition methods.
